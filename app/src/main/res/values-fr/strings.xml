@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonPremierProjetAndroid</string>
+    <string name="lbl_welcome_message">Bienvenue</string>
+    <string name="btn_enter">Entrer</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeTitle">40sp</dimen>
+    <dimen name="layoutMarginTop">40dp</dimen>
+    <dimen name="widthButtonEnter">110dp</dimen>
+    <dimen name="widthBorderButton">1dp</dimen>
+</resources>
